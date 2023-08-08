@@ -15,7 +15,14 @@ This is an output device plug-in for model previews
 
 ![image.png](https://cdn.nlark.com/yuque/0/2021/png/22795356/1639546850782-1fca3aff-ff36-4323-98ec-ccb78aaba3d5.png#clientId=ue8ca2024-4847-4&crop=0&crop=0&crop=1&crop=1&from=drop&id=ube40a0e1&margin=%5Bobject%20Object%5D&name=image.png&originHeight=126&originWidth=377&originalType=binary&ratio=1&rotation=0&showTitle=false&size=9139&status=done&style=none&taskId=u3b8c42f7-a9c3-402f-a76e-bb426ee63eb&title=)
 
-3. restart cura
+3. Go to `Help > "Show Configuration Folder"`
+
+   ![Screenshot from 2023-08-08 08-06-48](https://github.com/Variable-Interactive/CrealityThumbnailPlugin/assets/77773850/890ff662-2f7a-4884-8cd7-f18640ef76df)
+
+4. open the plugins folder and extract the contents there
+
+   ![Screenshot from 2023-08-08 08-07-18](https://github.com/Variable-Interactive/CrealityThumbnailPlugin/assets/77773850/3c97f498-a30d-4ade-a8ca-21444de8c8b3)
+
 
 # How to use
 
